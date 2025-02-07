@@ -5,9 +5,7 @@ This is a simple React application designed to introduce the concept of **state*
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Understanding State](#understanding-state)
 - [Contributing](#contributing)
 - [License](#license)
